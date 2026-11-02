@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hola, soy Braulio 👋
 
-<!--
-**BraulioNeira24/BraulioNeira24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Computación en la ESPOL (Guayaquil, Ecuador). Trabajo entre el desarrollo Full Stack, el diseño de interfaces y la investigación aplicada con IA y datos.
 
-Here are some ideas to get you started:
+**Actualmente**
+- Investigación en la FIEC: modelo de visión por computadora para traducir lengua de señas a lenguaje natural.
+- Pasante de investigación en Cardiff University: asistente de IA para modelación hidrológica.
+- Desarrollo Full Stack del sistema de inventarios de la FCSH-ESPOL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tecnologías**
+
+[![Tecnologías](https://skillicons.dev/icons?i=python,js,ts,java,react,vite,tailwind,nodejs,express,django,mysql,mongodb,docker,git,linux,figma)](https://skillicons.dev)
+
+**Contacto:** [LinkedIn](https://linkedin.com/in/bneiraespol) · bneira@espol.edu.ec
