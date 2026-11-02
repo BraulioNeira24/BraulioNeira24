@@ -3,7 +3,7 @@
 Estudiante de Ingeniería en Computación en la ESPOL (Guayaquil, Ecuador). Trabajo entre el desarrollo Full Stack, el diseño de interfaces y la investigación aplicada con IA y datos.
 
 **Actualmente**
-- Investigación en la FIEC: modelo de visión por computadora para traducir lengua de señas a lenguaje natural.
+- Investigación en la FIEC-ESPOL: modelo de visión por computadora para traducir lengua de señas a lenguaje natural.
 - Pasante de investigación en Cardiff University: asistente de IA para modelación hidrológica.
 - Desarrollo Full Stack del sistema de inventarios de la FCSH-ESPOL.
 
